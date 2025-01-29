@@ -1,0 +1,1 @@
+This project will initially focus on DnD, but will expand to other TTRPGs as development progresses.
